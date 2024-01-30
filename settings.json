@@ -1,0 +1,133 @@
+{
+    "[python]": {
+        "editor.bracketPairColorization.enabled": false,
+        "editor.guides.bracketPairs": false,
+        "editor.tabSize": 4
+    },
+    "editor.bracketPairColorization.enabled": true,
+    "editor.detectIndentation": false,
+    "editor.fontSize": 14,
+    "editor.guides.bracketPairs": true,
+    "editor.minimap.enabled": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.renderControlCharacters": true,
+    "editor.rulers": [
+        80
+    ],
+    "editor.showFoldingControls": "always",
+    "editor.snippetSuggestions": "top",
+    "editor.tabSize": 2,
+    "emmet.includeLanguages": {
+        "erb": "html"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "explorer.confirmDelete": false,
+    "files.exclude": {
+        "__pycache__": true,
+        "_site": true,
+        ".asset-cache": true,
+        ".bundle": true,
+        ".ipynb_checkpoints": true,
+        ".pytest_cache": true,
+        ".sass-cache": true,
+        ".svn": true,
+        "**/.DS_Store": true,
+        "**/.egg-info": true,
+        "**/.git": true,
+        "build": true,
+        "coverage": true,
+        "dist": true,
+        "log": true,
+        "node_modules": true,
+        "public/packs": true,
+        "tmp": true
+    },
+    "files.hotExit": "off",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "files.watcherExclude": {
+        "**/audits/**": true,
+        "**/coverage/**": true,
+        "**/log/**": true,
+        "**/node_modules/**": true,
+        "**/tmp/**": true,
+        "**/vendor/**": true
+    },
+    "git.enabled": false,
+    "notebook.diff.ignoreMetadata": true,
+    "notebook.lineNumbers": "on",
+    "notebook.markup.fontSize": 13,
+    "python.defaultInterpreterPath": "~/.pyenv/shims/python",
+    "python.formatting.provider": "yapf",
+    "python.languageServer": "Pylance",
+    "python.linting.enabled": false,
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylintEnabled": false,
+    "python.terminal.activateEnvironment": false,
+    "ruby.lint": {
+        "rubocop": true
+    },
+    "search.exclude": {
+        // Inherits all glob patterns from the `files.exclude` setting.
+        "**/.venv": true
+    },
+    "telemetry.telemetryLevel": "off",
+    "window.restoreWindows": "none",
+    "window.newWindowDimensions": "maximized",
+    "workbench.editor.enablePreview": true,
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.useSplitJSON": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.panel.defaultLocation": "bottom",
+    "terminal.integrated.fontFamily": "Hack Nerd Font",
+    "workbench.colorCustomizations": {
+      "contrastBorder": "#ffffff25",
+      "activityBar.background":"#000000",
+      "activityBar.foreground":"#ffffff",
+      "activityBar.inactiveForeground":"#00f2ff62",
+      "activityBar.activeBorder":"#ffffff",
+      "activityBar.activeFocusBorder":"#ff0000",
+      "sideBar.background":"#000000",
+      "sideBar.foreground":"#00eeff9a",
+      "sideBarTitle.foreground":"#ffffff",
+      "sideBarSectionHeader.background":"#7314c737",
+      "sideBarSectionHeader.foreground":"#00c8ff53",
+      "editorGroup.border":"#2b005c",
+      "editorGroup.dropBackground":"#ae74ff1f",
+      "editorGroupHeader.tabsBackground":"#000000",
+      "tab.activeBackground":"#ffffff",
+      "tab.unfocusedActiveBackground":"#00515593",
+      "tab.unfocusedActiveForeground":"#ffffff",
+      "tab.activeForeground":"#000000",
+      "tab.activeBorder":"#2b005c",
+      "tab.inactiveBackground":"#000000",
+      "tab.inactiveForeground":"#ffffff",
+      "tab.unfocusedInactiveBackground":"#000000",
+      "tab.unfocusedInactiveForeground":"#ffffff",
+      "tab.hoverBackground":"#b6e9ff",
+      "editor.background":"#000000",
+      "editor.foreground":"#fefefe",
+      "editorLineNumber.foreground":"#ffffff",
+      "editorCursor.background":"#7300ff",
+      "editorCursor.foreground":"#ffffff",
+      "editor.selectionBackground":"#00bfff31",
+      "editor.inactiveSelectionBackground":"#37009775",
+      "editor.findMatchHighlightBackground":"#ff000069",
+      "statusBar.background":"#110020",
+      "statusBar.foreground":"#ffffff",
+      "titleBar.activeBackground":"#00706c90",
+      "statusBarItem.remoteBackground": "#ff5ec9",
+      "statusBarItem.remoteForeground": "#000000"
+
+    },
+    "editor.color"
+    "[json]": {
+      "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "window.zoomLevel": -1,
+
+
+}
